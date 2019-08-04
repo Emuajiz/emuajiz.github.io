@@ -1,3 +1,3 @@
 # emuajiz.github.io
 
-just simple portfolia page
+just simple portfolio page
